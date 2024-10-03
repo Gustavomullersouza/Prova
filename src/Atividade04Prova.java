@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Atividade04Prova {
     public static void main(String[] args) {
 
-        // System.out.println("CLEITON > RODRIGO"); <-------------------
+        // System.out.println("CLEITON > RODRIGO"); <---------------
 
         int taffismoClub = 80;
         int vototaff = 0;
