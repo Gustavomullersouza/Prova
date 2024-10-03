@@ -57,6 +57,7 @@ public class Atividade04Prova {
         System.out.println("O Sport Redes Fc : " + votosport + " votos" );
         System.out.println("O vencedor foi " + vencedor );
 
+        System.out.println("CLEITON > RODRIGO");
 
     }
 }
