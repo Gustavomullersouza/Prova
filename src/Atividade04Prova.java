@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class Atividade04Prova {
     public static void main(String[] args) {
+
+        // System.out.println("CLEITON > RODRIGO"); <-------------------
+
         int taffismoClub = 80;
         int vototaff = 0;
         int patinhoBranquinho = 70;
@@ -57,7 +60,6 @@ public class Atividade04Prova {
         System.out.println("O Sport Redes Fc : " + votosport + " votos" );
         System.out.println("O vencedor foi " + vencedor );
 
-        System.out.println("CLEITON > RODRIGO");
 
     }
 }

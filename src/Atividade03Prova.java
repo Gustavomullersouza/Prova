@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Atividade03Prova {
     public static void main(String[] args) {
 
+        //System.out.println("CLEITON > RODRIGO"); <-------------------
 
         int opcao = 0;
         int quantidadeAlimentos;
