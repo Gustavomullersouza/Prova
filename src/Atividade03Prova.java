@@ -18,7 +18,7 @@ public class Atividade03Prova {
         System.out.println("digite o quantidade de Alimimentos: ");
         quantidadeAlimentos = sc.nextInt();
 
-
+        System.out.println("Utilizar numeros de 0 até 10 voto");
 
            while( opcao != 99 ){
                System.out.println(" 1 - Para somar notas dos alimentos");
