@@ -38,6 +38,8 @@ public class Atividade04Prova {
                     votolucas++;
                 } else if (voto == 50) {
                     votosport++;
+                }else {
+                    System.out.println("Voto invalido");
                 }
             }while (voto != 50 && voto != 70 && voto != 80 && voto != 60);
 
